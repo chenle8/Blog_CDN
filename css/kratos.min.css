@@ -775,7 +775,7 @@ a.comment-reply-link,a.comment-reply-login{text-decoration:none;padding:2px 5px;
 .dropdown,.dropup{position:relative}
 aside-wrap .line{height:1px!important}
 .bg-dark .dk,.bg-dark.dk{background-color:#2e3344}
-.line{width:100%;height:2px;margin:10px 0;overflow:hidden;font-size:0;background-color: #2e3344;}
+.line{width:100%;height:2px;margin:8px 0;overflow:hidden;font-size:0;background-color: #2e3344;}
 #aside-user span.avatar{animation-timing-function:cubic-bezier(0,0,.07,1)!important;border:0 solid}
 .thumb-lg{width:130px}
 .thumb-lg{display:inline-block;width:96px}
