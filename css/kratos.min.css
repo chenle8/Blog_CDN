@@ -1194,5 +1194,49 @@ cite.fn{padding-left:39px}
     #kratos-header,#respond,.cd-tool,.comments-area .avatar,.kratos-start{display:none}
     .comments-area .comment-awaiting-moderation,.comments-area .comment-meta,.comments-area .fn{margin-left:0}
 }
+.github-badge {
+    display: inline-block;
+    border-radius: 4px;
+    text-shadow: none;
+    font-size: 12px;
+    color: #fff;
+    line-height: 15px;
+    background-color: #ABBAC3;
+    margin-bottom: 5px;
+}
+.github-badge .badge-subject {
+    display: inline-block;
+    background-color: #4D4D4D;
+    padding: 4px 4px 4px 6px;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+.github-badge .bg-a {
+    background-color: #007EC6 !important;
+}
+.github-badge .bg-b {
+    background-color: #FF66FF !important;
+}
+.github-badge .bg-c {
+    background-color: #66CC00 !important;
+}
+.github-badge .bg-d {
+    background-color: #8833D7 !important;
+}
+.github-badge .bg-e {
+    background-color: #9f9f9f !important;
+}
+.github-badge .bg-f {
+    background-color: #FFA500 !important;
+}
+.github-badge .bg-g {
+    background-color: #4DC820 !important;
+}
 
+.github-badge .badge-value {
+    display: inline-block;
+    padding: 4px 6px 4px 4px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
 
